@@ -12,7 +12,7 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/gg_gabiru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/hsbicalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "hsbicalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heitor-sampaio-635273191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -48,15 +48,15 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{gabiru1}/count.svg" alt="Gabiru :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{hsbicalho}/count.svg" alt="hsbicalho :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiru1&langs_count=10&theme=chartreuse-dark&layout=compact" alt="gabiru :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbicalho&langs_count=10&theme=chartreuse-dark&layout=compact" alt="gabiru :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabiru1&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hsbicalho&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
 
 
 ---
